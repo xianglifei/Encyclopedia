@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>JavaScript 从入门到精通.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>497078493.17912197</real>
+				<key>version</key>
+				<dict>
+					<key>8cca2f9006363f9eeec6f9cdc7893b4c1614721c54ad7a94a4dc468a637ab8d4</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>README.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>497078470.04951298</real>
+				<key>version</key>
+				<dict>
+					<key>8cca2f9006363f9eeec6f9cdc7893b4c1614721c54ad7a94a4dc468a637ab8d4</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>README.md</string>
+		</array>
+		<array>
+			<string>JavaScript 从入门到精通.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>8cca2f9006363f9eeec6f9cdc7893b4c1614721c54ad7a94a4dc468a637ab8d4</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
